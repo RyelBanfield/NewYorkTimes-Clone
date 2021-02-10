@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Project 1 - New York Times Article Copy
 
 > This is the Project 1 in the Microverse course
